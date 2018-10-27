@@ -146,3 +146,12 @@ h3 {
     font-size: 16px;
   }
 }
+
+.ce-red {
+  color: #EE2434;
+}
+
+.post-link:hover {
+  color: #F3777E;
+  text-decoration: none;
+}

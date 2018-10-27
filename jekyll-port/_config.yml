@@ -17,7 +17,8 @@ title: Legal - CheaprEats
 email: hello@chepreats.com
 description: >- # this means to ignore newlines until "baseurl:"
   CheaprEats is a comprehensive mobile ordering system that allows users to place and pay for their orders directly from their phone when dining in or out.
-  Consumers save time, don’t need to split bills, and receive a more personalized experience guided by interactive menus.
+  Consumers save time, don’t need to split bills, and receive a more personalized experience guided by interactive menus. You can
+  find legal documents such as our privacy policy and End User License Agreement (EULA) here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cheapreats.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cheapreats
