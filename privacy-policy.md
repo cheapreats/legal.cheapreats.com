@@ -7,7 +7,7 @@ layout: default
 CheaprEats is committed to protecting its visitors' and Users' privacy. The following Privacy Policy
 outlines the manner in which 10792195 Canada Inc. (hereafter "CheaprEats", "we", “our” or "us")
 collects, uses, discloses and otherwise manages personal information, including in connection with
-our website <https://www.cheapreats.com> (the "Website"), our mobile customer application (the "App") and
+[our website](https://www.cheapreats.com)) (the "Website"), our mobile customer application (the "App") and
 our on-demand services (collectively, the "Service"). Please review the following carefully so that you
 understand our privacy practices.
 
