@@ -7,14 +7,14 @@ layout: default
 CheaprEats is committed to protecting its visitors' and Users' privacy. The following Privacy Policy
 outlines the manner in which 10792195 Canada Inc. (hereafter "CheaprEats", "we", “our” or "us")
 collects, uses, discloses and otherwise manages personal information, including in connection with
-our website www.cheapreats.com (the "Website"), our mobile customer application (the "App") and
+our website <www.cheapreats.com> (the "Website"), our mobile customer application (the "App") and
 our on-demand services (collectively, the "Service"). Please review the following carefully so that you
 understand our privacy practices.
 
 For the purposes of UK data protection legislation, CheaprEats is the data controller of your personal
 information.
 
-If you have questions about this Privacy Policy, please contact us at hello@cheapreats.com.
+If you have questions about this Privacy Policy, please contact us at <mailto:hello@cheapreats.com>.
 
 Definitions:
 
@@ -215,7 +215,7 @@ opportunity, express opinions, exchange information, and conduct business.
 Where we rely on your consent to process personal data, you have the right to withdraw or decline
 your consent at any time and where we rely on legitimate interests, you have the right to object. If
 you have any questions about the lawful bases upon which we collect and use your personal data,
-please contact our Data Protection Officer at hello@cheapreats.com.
+please contact our Data Protection Officer at <mailto:hello@cheapreats.com>.
 How do we share or disclose your personal information?
 Sharing with our Service Providers: We may employ third party companies and individuals in
 Canada, the US or other jurisdictions to facilitate or provide certain services on our behalf, such as
@@ -236,7 +236,7 @@ Where your information is transferred outside the EEA, we will take all steps re
 necessary to ensure that your data is subject to appropriate safeguards, such as relying on a
 recognised legal adequacy mechanism, and that it is treated securely and in accordance with
 this Privacy Policy. If you would like more information about these safeguards, please
-contact us at hello@cheapreats.com.
+contact us at <mailto:hello@cheapreats.com>.
 Sale of Business: We may transfer any information we have about you as an asset in connection
 with a proposed or completed merger or sale (including transfers made as part of insolvency or
 bankruptcy proceedings) involving all or part of CheaprEats or as part of a corporate reorganization
@@ -259,7 +259,7 @@ How can you exercise your rights under the GDPR?
   * object to the further processing of your personal information, including the right to
 object to marketing; and,
   * request that your personal information be moved to a third party.
-You can exercise the rights listed above at any time by contacting us at hello@cheapreats.com.
+You can exercise the rights listed above at any time by contacting us at <mailto:hello@cheapreats.com>.
 You may opt out at any time from allowing further access by us to your location data by updating
 settings on your device. You can also stop all information collection by un-installing the App. You
 may use the standard un-install processes as may be available for your mobile device.
@@ -267,7 +267,7 @@ Where we rely on your consent to process personal data, you have the right to wi
 decline your consent at any time and where we rely on legitimate interests, you have the
 right to object. If you have any questions about the lawful bases upon which we collect and
 use your personal data, please contact our Data Protection Officer at
-hello@cheapreats.com.
+<mailto:hello@cheapreats.com>.
 If your request or concern is not satisfactorily resolved by us, you may approach your local
 data protection authority, (see European Commission: What are Data Protection Authorities
 (DPAs)?). The Information Commissioner is the supervisory authority in the UK and can
@@ -280,7 +280,7 @@ until you cancel your CheaprEats account in order to meet our contractual obliga
 to you or until it is no longer required for the purposes stated above or to otherwise
 meet legal requirements. If you wish to cancel your CheaprEats account or request
 that we no longer use your information to provide you services, please contact us at
-hello@cheapreats.com. After deletion of your account, we will anonymize your data,
+<mailto:hello@cheapreats.com>. After deletion of your account, we will anonymize your data,
 unless this data is necessary to comply with a legal obligation or resolve disputes.
 How does CheaprEats protect personal information?
 * Our safeguards: CheaprEats has taken appropriate technical, physical and organizational
@@ -309,14 +309,14 @@ Website. We encourage you to periodically review this page for the latest inform
 privacy practices.
 How do I contact CheaprEats?
 * Questions about how we treat personal information? Please contact our Privacy
-Officer by email at hello@cheapreats.com if you have any questions or comments
+Officer by email at <mailto:hello@cheapreats.com> if you have any questions or comments
 about this Privacy Policy, any question or complaint about the manner in which we or
 our service providers treat your personal information, or if you wish to exercise any of
 your rights in relation to your personal information.
 TERMS AND CONDITIONS OF SERVICE
 October 2018
 These terms and conditions ("Terms") apply to your use of the CheaprEats website at
-https://cheapreats.com (the "Website"), the Service and the Application (as defined below), as well
+<https://cheapreats.com> (the "Website"), the Service and the Application (as defined below), as well
 as to all information, recommendations and/or services provided to you on or through the Website,
 the Service and the Application.
 Please read these Terms carefully before using our website Application or Service. By using or
@@ -377,7 +377,7 @@ Restaurant accepts a request, the Application notifies you and provides an estim
 Order will be ready. Neither CheaprEats nor the Restaurant guarantee that Orders will be ready for
 pick-up within the estimated times.
 If you have any issues with your order, or wish to change or cancel your order, you may contact us
-directly (hello@cheapreats.com) and we will assist you in resolving your issue directly with the
+directly (<mailto:hello@cheapreats.com>) and we will assist you in resolving your issue directly with the
 Restaurant. However, we cannot guarantee that we will be able to get in touch with the Restaurant
 or change or cancel an order.
 YOUR USE OF THE APPLICATION OR THE SERVICE
@@ -464,7 +464,7 @@ Without prejudice to the foregoing, and insofar as allowed under law, CheaprEats
 liability to you in shall in no event exceed CAD$100.00.
 By using our Services, if there is a dispute between you and any Restaurant regarding the accuracy
 or information provided on or through our Application or Service, you may contact us directly
-(hello@cheapreats.com) and we will assist you in resolving your issue directly with the Restaurant.
+(<mailto:hello@cheapreats.com>) and we will assist you in resolving your issue directly with the Restaurant.
 CheaprEats and its subsidiaries, affiliates, officers, employees, agents, partners and licensors make
 no warranty or condition that (i) the Application or Service will meet your requirements; (ii) the
 Application or Service will be uninterrupted, timely, secure or error-free; (iii) the quality of any
